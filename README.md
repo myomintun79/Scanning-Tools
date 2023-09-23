@@ -1,2 +1,30 @@
 # Info-Tools
 for Information Gathering Tools
+
+# Know YOur IP
+In Linux \
+$curl ifconfig.co \
+https://www.ip2location.com/ \
+https://www.criminalip.io/
+
+#Gather information about DNS, MX, and so on
+https://mxtoolbox.com/ \
+https://dnschecker.org/ \
+https://whois.domaintools.com/ \
+https://who.is/
+
+#Scanning Website Technology
+https://builtwith.com/ \
+https://whatcms.org/ \
+https://sitecheck.sucuri.net/?cjevent=adb946d75a0211ee826200420a18b8fa&cj_aid=13948096&cj_pid=8092889&cj_cid=4761150 \
+https://cmsdetect.com/ \
+https://www.wappalyzer.com/
+
+#Scan your website for SSL/TLS
+https://www.ssllabs.com/ssltest/ \
+
+#email Scanning
+https://www.neverbounce.com/email-verification \
+
+#OSINT Framework
+https://osintframework.com/
