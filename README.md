@@ -1,7 +1,7 @@
 # Info-Tools
 for Information Gathering Tools
 
-# Know YOur IP
+# Know Your IP
 In Linux \
 $curl ifconfig.co \
 https://www.ip2location.com/ \
