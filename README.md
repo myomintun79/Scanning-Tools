@@ -34,3 +34,6 @@ https://github.com/sundowndev/phoneinfoga
 
 # Image & Photo
 https://pimeyes.com/en
+
+# Analyse suspicious files, domains, IPs and URLs 
+https://www.virustotal.com/gui/home/upload
