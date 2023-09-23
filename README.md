@@ -28,3 +28,6 @@ https://www.neverbounce.com/email-verification \
 
 # OSINT Framework 
 https://osintframework.com/
+
+# Scanning Phone No
+https://github.com/sundowndev/phoneinfoga
