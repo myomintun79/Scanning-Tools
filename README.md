@@ -2,7 +2,8 @@
 for Information Gathering Tools
 # Nmap
 https://phoenixnap.com/kb/nmap-scan-open-ports \
-https://nmap.org/book/port-scanning-tutorial.html
+https://nmap.org/book/port-scanning-tutorial.html \
+https://www.recordedfuture.com/threat-intelligence-101/tools-and-techniques/nmap-commands
 
 # shodan
 https://www.shodan.io/
