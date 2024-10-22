@@ -1,5 +1,8 @@
 # Info-Tools
 for Information Gathering Tools
+# Nmap
+https://phoenixnap.com/kb/nmap-scan-open-ports \
+https://nmap.org/book/port-scanning-tutorial.html
 
 # shodan
 https://www.shodan.io/
