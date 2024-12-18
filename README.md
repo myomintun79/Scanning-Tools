@@ -2,7 +2,7 @@
 for Information Gathering Tools
 
 # Linux Commands
-sudo netstat -tuln \
+sudo netstat -tuln 
 
 
 
