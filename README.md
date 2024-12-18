@@ -1,5 +1,11 @@
 # Info-Tools
 for Information Gathering Tools
+
+# Linux Commands
+sudo netstat -tuln \
+
+
+
 # Nmap
 https://phoenixnap.com/kb/nmap-scan-open-ports \
 https://nmap.org/book/port-scanning-tutorial.html \
