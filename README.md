@@ -1,10 +1,13 @@
 # Info-Tools
 for Information Gathering Tools
 
-# Linux Commands
-sudo netstat -tuln 
-
-
+# Linux Commands(Port Scan)
+sudo netstat -tuln \
+sudo ss -tuln \
+sudo lsof -i -P -n | grep LISTEN \
+nmap -p- localhost \
+nmap -sT -sU localhost \
+sudo ufw status \
 
 # Nmap
 https://phoenixnap.com/kb/nmap-scan-open-ports \
