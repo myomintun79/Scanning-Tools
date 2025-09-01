@@ -5,6 +5,8 @@ for Information Gathering Tools
 https://sitecheck.sucuri.net/ \
 https://www.sitelock.com/free-website-scan/ \
 https://pentest-tools.com/website-vulnerability-scanning/website-scanner \
+https://developer.mozilla.org/en-US/observatory \
+https://hostedscan.com/owasp-vulnerability-scan?utm_source=chatgpt.com
 
 
 # Linux Commands(Port Scan)
